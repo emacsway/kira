@@ -7669,15 +7669,9 @@ ul.u-text li:last-child {
   object-fit: cover;
   display: block;
   vertical-align: middle;
-  /*
   background-size: cover;
-  */
-  
-  background-size: 100% auto;
   background-position: 50% 50%;
-  /*
   background-repeat: no-repeat;
-  */
 }
 img.u-image,
 .u-video-poster {

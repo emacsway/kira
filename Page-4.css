@@ -1,6 +1,9 @@
  .u-section-1 {
+  background-color: #458bc4;
   background-image: url("images/1456.jpg");
-  background-position: 50% 19.23%;
+  background-image: url("images/1456.jpg"), linear-gradient(to bottom right, #014c83, #ebf4fe);
+  background-size: 100% auto;
+  background-position: top;
 }
 
 .u-section-1 .u-sheet-1 {
@@ -13,6 +16,10 @@
   height: auto;
   grid-gap: 10px;
   margin: 405px auto 0;
+}
+
+.u-section-1 .u-list-2 {
+  margin: 120px auto 0;
 }
 
 .u-section-1 .u-list-item-1 {
