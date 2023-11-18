@@ -1,9 +1,5 @@
  .u-section-1 {
-  background-color: #458bc4;
   background-image: url("images/1456.jpg");
-  background-image: url("images/1456.jpg"), linear-gradient(to bottom right, #014c83, #ebf4fe);
-  background-size: 100% auto;
-  background-position: top;
 }
 
 .u-section-1 .u-sheet-1 {
